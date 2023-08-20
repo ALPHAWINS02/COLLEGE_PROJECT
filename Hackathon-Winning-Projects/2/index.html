@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ALPHA 'S DIARY</title>
+    <script src="https://kit.fontawesome.com/1935d064dd.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="styles.css">
+
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <img src="images/logo.png"  width="65px"  class="align-left medium">
+        </div>
+        <h1>ALPHA 'S  DIARY</h1>
+        <h2>The life of every person is like a diary in which they have to write one story, and writes another.</h2>
+        
+        <div class="container">
+            <div >
+                    <form id="form" action="" enctype="multipart/form-data" method="POST">
+                        <input type="text" id="DATE" placeholder="DATE">
+                        <textarea id="ENTRY" placeholder="ENTRY"></textarea>
+                        <img src="./images/I.png"  alt="img"   >
+                        <input type="file" onchange="readUrl(this)">
+                        <button id="add-btn">Add Entry</button>
+                        
+                    </form>  
+                             
+            </div>
+            <div class="viewentry">
+                <view>
+                    <li><a href="#VIEWENTRY"><b>VIEW ENTRY</b></a></li>
+                </view>
+            </div>
+            
+        </div>
+    </header>
+    <section>
+        <div class="container1">
+            <h2 id ="VIEWENTRY" class= "viewentry"> ⠀⠀⠀  ⠀YOUR ⠀ENTRIES </h2>
+            <h2>Your Entries</h2>
+            <hr>
+            
+            
+            <div id="notes">
+        
+                    <div class="note">
+                        
+                        <p class="note-counter">Entry </p>
+                        <h3 class="DATE"> hello </h3>
+                        <p class="ENTRY"> some note</p>
+                        
+                        <button class="note-btn">Delete entry</button>
+                        <button class="notr-btn edit-btn">Edit entry</button>
+                    </div>
+                
+            </div>
+            <img src="" id="b" width="150px"   >
+        </div>
+    </section>
+
+   
+    
+
+    <script src="script.js"></script>
+
+    
+</body>
+</html>

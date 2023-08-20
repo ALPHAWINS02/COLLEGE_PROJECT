@@ -1,0 +1,213 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rampart+One&display=swap');
+
+:root {
+    --white: #fff;
+    --black: #1c2b2d;
+    --blue: #31326f;
+    --color-primary: #5d328f;
+    --color-sec: #15b8a6;
+    --color-grey: #eee;
+    --color-dark-grey: #222831;
+}
+
+* {
+    margin: 0;
+    box-sizing: border-box;
+   
+}
+
+body {
+    
+    font-family: 'Times New Roman', Times, serif;
+    background-image: url(../main/assets/pexels-photo-4348401.jpeg);
+}
+
+/* UTILITY */
+.p-small {
+    padding-bottom: 5px;
+}
+.p-medium {
+    padding-bottom: 10px;
+}
+.p-y {
+    padding: 10px 0;
+}
+.m-y {
+    margin: 40px 0;
+}
+
+p {
+    font-size: 1.6rem;
+    line-height: 1.5;
+}
+
+img.align-left {
+    float: left;
+    margin: 10px auto;
+    
+}
+
+.container {
+    max-width: 800px;
+    margin: 100px 0px;
+    padding: 10px 0px;  
+    
+    
+    
+    
+}
+.container1{
+    
+    margin: 80px ;
+    padding: 60px;
+    background-color: #FF616D;
+    
+
+}
+#nav{
+    display: flex;
+    align-items: center;
+    padding: 10px 3%;
+      
+}
+
+#nav ul{
+    flex: 1;
+    text-align: right;
+}
+#nav ul li{
+    display: inline-block;
+    list-style: none;
+    margin: 0 20px;
+    color: black;
+   
+}
+header h1 {
+    font-size: 2.5rem;
+    color: rgb(250, 250, 250);
+    line-height: 2;
+    font-family: 'Rampart One', cursive;
+    text-align: center;
+    background-color: #d48723ef; 
+    max-width: 50000px;
+    max-height: 95px;
+    margin: 0px auto;
+}
+header h2 {
+    font-size: 1.5rem;
+    color: rgb(250, 250, 250);
+    line-height: 2;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    text-align: center;
+    background-color: #00000057; 
+    max-width: 50000px;
+    max-height: 95px;
+    margin: 0px auto;
+}
+header h3 {
+    line-height: 4;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    margin-left: 25%;
+    background-color: mintcream;
+    text-align: center;
+
+}
+header form {
+    display: flex;
+    flex-direction: column;
+    width: 56rem;
+    height: 20rem;
+    padding-left: 200px;
+    padding-right: 100px;
+    
+    margin: 0px;
+    color: black;
+    
+}
+.viewentry{
+    display: grid; 
+    text-align: center;
+    padding: 50px;
+    margin-left: 10px;
+    margin-right: 90px;
+    margin-top: 0;
+    
+    
+}
+form > * {
+    outline:#f0ebeb;
+    outline-style:groove;
+    padding: 7px;
+    border: 1px solid #777;
+    align-items: flex-start;
+    
+}
+
+form textarea {
+    padding: 7px 0 210px 5px;
+    font-size: 1.2rem;
+    font-family: cursive;
+    
+}
+
+::placeholder {
+    font-size: 1rem;
+}
+
+form button {
+    background-color: var(--color-sec);
+    color: #fff;
+    font-size: 1.2rem;
+    font-weight: bold;
+    border: none;
+    cursor: pointer;
+    transition: all .3s;
+}
+
+form button:hover {
+    background-color: var(--color-primary);
+}
+
+.note {
+    padding: 1rem;
+    /* border: 1px solid #777; */
+    background-color: rgb(255, 255, 255);
+    border-radius: 3px;
+    margin: 1rem 0;
+
+}
+
+.note-counter,
+.note-text {
+    font-size: 1.2rem;
+}
+
+.DATE {
+    font-size: 1.5rem;
+    color: deepskyblue;
+}
+
+.note-btn {
+    padding: 7px;
+    margin-top: 5px;
+    font-size: 1rem;
+    background-color: rgba(21, 197, 30, 0.514);
+    color: rgb(5, 5, 5);
+    border: none;
+    border-radius: 3px;
+    outline: none;
+    cursor: pointer;
+}
+
+.edit-btn {
+    padding: 7px;
+    margin-top: 5px;
+    font-size: 1rem;
+    background-color: rgb(197, 21, 21);
+    color: rgb(12, 226, 191);
+    border: none;
+    border-radius: 3px;
+    outline: none;
+    cursor: pointer;
+}
