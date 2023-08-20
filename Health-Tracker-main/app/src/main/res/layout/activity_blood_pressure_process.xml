@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bp12"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:paddingLeft="64dp"
+    android:paddingTop="16dp"
+    android:paddingRight="64dp"
+    android:paddingBottom="16dp"
+    tools:context="com.example.alpha.HEALTH_TRACKER.BloodPressureProcess">
+
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="209dp" />
+
+    <SurfaceView
+        android:id="@+id/surfaceView"
+        android:layout_width="252dp"
+        android:layout_height="287dp" />
+
+    <ProgressBar
+        android:id="@+id/BPPB"
+
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_width="117dp"
+        android:layout_height="104dp"
+        android:layout_marginTop="30dp"
+        android:indeterminate="false"
+        android:max="26"
+        android:progress="1"
+        android:progressDrawable="@drawable/circular_progressbar" />
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="19dp" />
+
+
+</LinearLayout>

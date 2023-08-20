@@ -1,0 +1,306 @@
+[
+    {
+        "merged": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-merged_res-15:\\drawable_o2.png.flat",
+        "source": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-main-17:\\drawable\\o2.png"
+    },
+    {
+        "merged": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-merged_res-15:\\drawable_ht12.jpg.flat",
+        "source": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-main-17:\\drawable\\ht12.jpg"
+    },
+    {
+        "merged": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-merged_res-15:\\drawable_r.png.flat",
+        "source": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-main-17:\\drawable\\r.png"
+    },
+    {
+        "merged": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-merged_res-15:\\drawable_htm.png.flat",
+        "source": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-main-17:\\drawable\\htm.png"
+    },
+    {
+        "merged": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-merged_res-15:\\mipmap-xxhdpi_rr1.png.flat",
+        "source": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-main-17:\\mipmap-xxhdpi\\rr1.png"
+    },
+    {
+        "merged": "com.example.alpha.HEALTH_TRACKER.app-merged_res-15:/drawable_oxygen.jpg.flat",
+        "source": "com.example.alpha.HEALTH_TRACKER.app-main-17:/drawable/oxygen.jpg"
+    },
+    {
+        "merged": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-merged_res-15:\\layout_activity_start_vital_signs.xml.flat",
+        "source": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-main-17:\\layout\\activity_start_vital_signs.xml"
+    },
+    {
+        "merged": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-merged_res-15:\\drawable_bp12.jpg.flat",
+        "source": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-main-17:\\drawable\\bp12.jpg"
+    },
+    {
+        "merged": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-merged_res-15:\\mipmap-xxhdpi_or1.png.flat",
+        "source": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-main-17:\\mipmap-xxhdpi\\or1.png"
+    },
+    {
+        "merged": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-merged_res-15:\\mipmap-xxhdpi_hrbar.png.flat",
+        "source": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-main-17:\\mipmap-xxhdpi\\hrbar.png"
+    },
+    {
+        "merged": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-merged_res-15:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-main-17:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-merged_res-15:\\mipmap-xxhdpi_o2l.png.flat",
+        "source": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-main-17:\\mipmap-xxhdpi\\o2l.png"
+    },
+    {
+        "merged": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-merged_res-15:\\drawable_mainp1.jpg.flat",
+        "source": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-main-17:\\drawable\\mainp1.jpg"
+    },
+    {
+        "merged": "com.example.alpha.HEALTH_TRACKER.app-merged_res-15:/layout_activity_heart_rate_result.xml.flat",
+        "source": "com.example.alpha.HEALTH_TRACKER.app-main-17:/layout/activity_heart_rate_result.xml"
+    },
+    {
+        "merged": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-merged_res-15:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-main-17:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-merged_res-15:\\layout_activity_heart_rate_result.xml.flat",
+        "source": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-main-17:\\layout\\activity_heart_rate_result.xml"
+    },
+    {
+        "merged": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-merged_res-15:\\layout_activity_heart_rate_process.xml.flat",
+        "source": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-main-17:\\layout\\activity_heart_rate_process.xml"
+    },
+    {
+        "merged": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-merged_res-15:\\drawable_circular_progressbar.xml.flat",
+        "source": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-main-17:\\drawable\\circular_progressbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-merged_res-15:\\drawable_bg3.jpg.flat",
+        "source": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-main-17:\\drawable\\bg3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-merged_res-15:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-main-17:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-merged_res-15:\\layout_activity_about_app.xml.flat",
+        "source": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-main-17:\\layout\\activity_about_app.xml"
+    },
+    {
+        "merged": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-merged_res-15:\\drawable_textinputborder.xml.flat",
+        "source": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-main-17:\\drawable\\textinputborder.xml"
+    },
+    {
+        "merged": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-merged_res-15:\\mipmap-xxhdpi_ro2.png.flat",
+        "source": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-main-17:\\mipmap-xxhdpi\\ro2.png"
+    },
+    {
+        "merged": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-merged_res-15:\\layout_activity_primary.xml.flat",
+        "source": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-main-17:\\layout\\activity_primary.xml"
+    },
+    {
+        "merged": "com.example.alpha.HEALTH_TRACKER.app-merged_res-15:/layout_activity_heart_rate_process.xml.flat",
+        "source": "com.example.alpha.HEALTH_TRACKER.app-main-17:/layout/activity_heart_rate_process.xml"
+    },
+    {
+        "merged": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-merged_res-15:\\mipmap-xxhdpi_send.png.flat",
+        "source": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-main-17:\\mipmap-xxhdpi\\send.png"
+    },
+    {
+        "merged": "com.example.alpha.HEALTH_TRACKER.app-merged_res-15:/layout_activity_blood_pressure_result.xml.flat",
+        "source": "com.example.alpha.HEALTH_TRACKER.app-main-17:/layout/activity_blood_pressure_result.xml"
+    },
+    {
+        "merged": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-merged_res-15:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-main-17:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-merged_res-15:\\drawable_pexels_c_tia_matos_1072179.jpg.flat",
+        "source": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-main-17:\\drawable\\pexels_c_tia_matos_1072179.jpg"
+    },
+    {
+        "merged": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-merged_res-15:\\drawable_screen1.jpg.flat",
+        "source": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-main-17:\\drawable\\screen1.jpg"
+    },
+    {
+        "merged": "com.example.alpha.HEALTH_TRACKER.app-merged_res-15:/layout_activity_blood_pressure_process.xml.flat",
+        "source": "com.example.alpha.HEALTH_TRACKER.app-main-17:/layout/activity_blood_pressure_process.xml"
+    },
+    {
+        "merged": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-merged_res-15:\\drawable_bp.png.flat",
+        "source": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-main-17:\\drawable\\bp.png"
+    },
+    {
+        "merged": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-merged_res-15:\\mipmap-xxhdpi_rrr.png.flat",
+        "source": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-main-17:\\mipmap-xxhdpi\\rrr.png"
+    },
+    {
+        "merged": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-merged_res-15:\\drawable_mainp.jpg.flat",
+        "source": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-main-17:\\drawable\\mainp.jpg"
+    },
+    {
+        "merged": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-merged_res-15:\\mipmap-xxhdpi_enter.png.flat",
+        "source": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-main-17:\\mipmap-xxhdpi\\enter.png"
+    },
+    {
+        "merged": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-merged_res-15:\\drawable_heart_rate__1_.jpg.flat",
+        "source": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-main-17:\\drawable\\heart_rate__1_.jpg"
+    },
+    {
+        "merged": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-merged_res-15:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-main-17:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-merged_res-15:\\mipmap-xxhdpi_hrl.png.flat",
+        "source": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-main-17:\\mipmap-xxhdpi\\hrl.png"
+    },
+    {
+        "merged": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-merged_res-15:\\drawable_bp1.jpg.flat",
+        "source": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-main-17:\\drawable\\bp1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-merged_res-15:\\layout_activity_first.xml.flat",
+        "source": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-main-17:\\layout\\activity_first.xml"
+    },
+    {
+        "merged": "com.example.alpha.HEALTH_TRACKER.app-merged_res-15:/drawable__21ht.jpg.flat",
+        "source": "com.example.alpha.HEALTH_TRACKER.app-main-17:/drawable/_21ht.jpg"
+    },
+    {
+        "merged": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-merged_res-15:\\drawable_uem.png.flat",
+        "source": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-main-17:\\drawable\\uem.png"
+    },
+    {
+        "merged": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-merged_res-15:\\mipmap-xxhdpi_rrl.png.flat",
+        "source": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-main-17:\\mipmap-xxhdpi\\rrl.png"
+    },
+    {
+        "merged": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-merged_res-15:\\mipmap-xxhdpi_bpr.png.flat",
+        "source": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-main-17:\\mipmap-xxhdpi\\bpr.png"
+    },
+    {
+        "merged": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-merged_res-15:\\layout_activity_o2_result.xml.flat",
+        "source": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-main-17:\\layout\\activity_o2_result.xml"
+    },
+    {
+        "merged": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-merged_res-15:\\layout_activity_blood_pressure_result.xml.flat",
+        "source": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-main-17:\\layout\\activity_blood_pressure_result.xml"
+    },
+    {
+        "merged": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-merged_res-15:\\mipmap-xxhdpi_login.png.flat",
+        "source": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-main-17:\\mipmap-xxhdpi\\login.png"
+    },
+    {
+        "merged": "com.example.alpha.HEALTH_TRACKER.app-merged_res-15:/layout_activity_o2_process.xml.flat",
+        "source": "com.example.alpha.HEALTH_TRACKER.app-main-17:/layout/activity_o2_process.xml"
+    },
+    {
+        "merged": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-merged_res-15:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-main-17:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-merged_res-15:\\drawable_bpm.png.flat",
+        "source": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-main-17:\\drawable\\bpm.png"
+    },
+    {
+        "merged": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-merged_res-15:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-main-17:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-merged_res-15:\\mipmap-xxhdpi_bp1.png.flat",
+        "source": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-main-17:\\mipmap-xxhdpi\\bp1.png"
+    },
+    {
+        "merged": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-merged_res-15:\\drawable_hr111.jpg.flat",
+        "source": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-main-17:\\drawable\\hr111.jpg"
+    },
+    {
+        "merged": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-merged_res-15:\\drawable_hr.png.flat",
+        "source": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-main-17:\\drawable\\hr.png"
+    },
+    {
+        "merged": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-merged_res-15:\\drawable_bp13.jpg.flat",
+        "source": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-main-17:\\drawable\\bp13.jpg"
+    },
+    {
+        "merged": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-merged_res-15:\\drawable_screen2.jpg.flat",
+        "source": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-main-17:\\drawable\\screen2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-merged_res-15:\\drawable_bgggg.jpg.flat",
+        "source": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-main-17:\\drawable\\bgggg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-merged_res-15:\\drawable_su.png.flat",
+        "source": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-main-17:\\drawable\\su.png"
+    },
+    {
+        "merged": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-merged_res-15:\\drawable_finger.jpg.flat",
+        "source": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-main-17:\\drawable\\finger.jpg"
+    },
+    {
+        "merged": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-merged_res-15:\\drawable_startivtal.jpg.flat",
+        "source": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-main-17:\\drawable\\startivtal.jpg"
+    },
+    {
+        "merged": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-merged_res-15:\\drawable_o2mm.png.flat",
+        "source": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-main-17:\\drawable\\o2mm.png"
+    },
+    {
+        "merged": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-merged_res-15:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-main-17:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-merged_res-15:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-main-17:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-merged_res-15:\\mipmap-xxhdpi_ab.png.flat",
+        "source": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-main-17:\\mipmap-xxhdpi\\ab.png"
+    },
+    {
+        "merged": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-merged_res-15:\\mipmap-xxhdpi_hr1.png.flat",
+        "source": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-main-17:\\mipmap-xxhdpi\\hr1.png"
+    },
+    {
+        "merged": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-merged_res-15:\\mipmap-xxhdpi_bg4.jpg.flat",
+        "source": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-main-17:\\mipmap-xxhdpi\\bg4.jpg"
+    },
+    {
+        "merged": "com.example.alpha.HEALTH_TRACKER.app-merged_res-15:/layout_activity_o2_result.xml.flat",
+        "source": "com.example.alpha.HEALTH_TRACKER.app-main-17:/layout/activity_o2_result.xml"
+    },
+    {
+        "merged": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-merged_res-15:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-main-17:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-merged_res-15:\\layout_activity_blood_pressure_process.xml.flat",
+        "source": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-main-17:\\layout\\activity_blood_pressure_process.xml"
+    },
+    {
+        "merged": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-merged_res-15:\\drawable_o2s.jpg.flat",
+        "source": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-main-17:\\drawable\\o2s.jpg"
+    },
+    {
+        "merged": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-merged_res-15:\\layout_activity_o2_process.xml.flat",
+        "source": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-main-17:\\layout\\activity_o2_process.xml"
+    },
+    {
+        "merged": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-merged_res-15:\\mipmap-xxhdpi_start.png.flat",
+        "source": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-main-17:\\mipmap-xxhdpi\\start.png"
+    },
+    {
+        "merged": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-merged_res-15:\\mipmap-xxhdpi_bpl.png.flat",
+        "source": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-main-17:\\mipmap-xxhdpi\\bpl.png"
+    },
+    {
+        "merged": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-merged_res-15:\\drawable_sn.png.flat",
+        "source": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-main-17:\\drawable\\sn.png"
+    },
+    {
+        "merged": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-merged_res-15:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-main-17:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-merged_res-15:\\drawable_bg4.jpg.flat",
+        "source": "C:\\Users\\jadu2\\.gradle\\daemon\\7.3.3\\com.example.alpha.HEALTH_TRACKER.app-main-17:\\drawable\\bg4.jpg"
+    }
+]

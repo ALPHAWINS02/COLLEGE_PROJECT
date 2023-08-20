@@ -1,0 +1,190 @@
+[
+    {
+        "merged": "E:\\PROJECT DONE\\HEALTH_TRACKER\\HEALTH_TRACKER\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_blood_pressure_result.xml.flat",
+        "source": "E:\\PROJECT DONE\\HEALTH_TRACKER\\HEALTH_TRACKER\\app\\src\\main\\res\\layout\\activity_blood_pressure_result.xml"
+    },
+    {
+        "merged": "E:\\PROJECT DONE\\HEALTH_TRACKER\\HEALTH_TRACKER\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg4.jpg.flat",
+        "source": "E:\\PROJECT DONE\\HEALTH_TRACKER\\HEALTH_TRACKER\\app\\src\\main\\res\\drawable\\bg4.jpg"
+    },
+    {
+        "merged": "E:\\PROJECT DONE\\HEALTH_TRACKER\\HEALTH_TRACKER\\app\\build\\intermediates\\res\\merged\\debug\\drawable_textinputborder.xml.flat",
+        "source": "E:\\PROJECT DONE\\HEALTH_TRACKER\\HEALTH_TRACKER\\app\\src\\main\\res\\drawable\\textinputborder.xml"
+    },
+    {
+        "merged": "E:\\PROJECT DONE\\HEALTH_TRACKER\\HEALTH_TRACKER\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_bpl.png.flat",
+        "source": "E:\\PROJECT DONE\\HEALTH_TRACKER\\HEALTH_TRACKER\\app\\src\\main\\res\\mipmap-xxhdpi\\bpl.png"
+    },
+    {
+        "merged": "E:\\PROJECT DONE\\HEALTH_TRACKER\\HEALTH_TRACKER\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_o2_process.xml.flat",
+        "source": "E:\\PROJECT DONE\\HEALTH_TRACKER\\HEALTH_TRACKER\\app\\src\\main\\res\\layout\\activity_o2_process.xml"
+    },
+    {
+        "merged": "E:\\PROJECT DONE\\HEALTH_TRACKER\\HEALTH_TRACKER\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_send.png.flat",
+        "source": "E:\\PROJECT DONE\\HEALTH_TRACKER\\HEALTH_TRACKER\\app\\src\\main\\res\\mipmap-xxhdpi\\send.png"
+    },
+    {
+        "merged": "E:\\PROJECT DONE\\HEALTH_TRACKER\\HEALTH_TRACKER\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pexels_c_tia_matos_1072179.jpg.flat",
+        "source": "E:\\PROJECT DONE\\HEALTH_TRACKER\\HEALTH_TRACKER\\app\\src\\main\\res\\drawable\\pexels_c_tia_matos_1072179.jpg"
+    },
+    {
+        "merged": "E:\\PROJECT DONE\\HEALTH_TRACKER\\HEALTH_TRACKER\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ro2.png.flat",
+        "source": "E:\\PROJECT DONE\\HEALTH_TRACKER\\HEALTH_TRACKER\\app\\src\\main\\res\\mipmap-xxhdpi\\ro2.png"
+    },
+    {
+        "merged": "E:\\PROJECT DONE\\HEALTH_TRACKER\\HEALTH_TRACKER\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\PROJECT DONE\\HEALTH_TRACKER\\HEALTH_TRACKER\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\PROJECT DONE\\HEALTH_TRACKER\\HEALTH_TRACKER\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_rrl.png.flat",
+        "source": "E:\\PROJECT DONE\\HEALTH_TRACKER\\HEALTH_TRACKER\\app\\src\\main\\res\\mipmap-xxhdpi\\rrl.png"
+    },
+    {
+        "merged": "E:\\PROJECT DONE\\HEALTH_TRACKER\\HEALTH_TRACKER\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_primary.xml.flat",
+        "source": "E:\\PROJECT DONE\\HEALTH_TRACKER\\HEALTH_TRACKER\\app\\src\\main\\res\\layout\\activity_primary.xml"
+    },
+    {
+        "merged": "E:\\PROJECT DONE\\HEALTH_TRACKER\\HEALTH_TRACKER\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_start_vital_signs.xml.flat",
+        "source": "E:\\PROJECT DONE\\HEALTH_TRACKER\\HEALTH_TRACKER\\app\\src\\main\\res\\layout\\activity_start_vital_signs.xml"
+    },
+    {
+        "merged": "E:\\PROJECT DONE\\HEALTH_TRACKER\\HEALTH_TRACKER\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_start.png.flat",
+        "source": "E:\\PROJECT DONE\\HEALTH_TRACKER\\HEALTH_TRACKER\\app\\src\\main\\res\\mipmap-xxhdpi\\start.png"
+    },
+    {
+        "merged": "E:\\PROJECT DONE\\HEALTH_TRACKER\\HEALTH_TRACKER\\app\\build\\intermediates\\res\\merged\\debug\\drawable_uem.png.flat",
+        "source": "E:\\PROJECT DONE\\HEALTH_TRACKER\\HEALTH_TRACKER\\app\\src\\main\\res\\drawable\\uem.png"
+    },
+    {
+        "merged": "E:\\PROJECT DONE\\HEALTH_TRACKER\\HEALTH_TRACKER\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_heart_rate_result.xml.flat",
+        "source": "E:\\PROJECT DONE\\HEALTH_TRACKER\\HEALTH_TRACKER\\app\\src\\main\\res\\layout\\activity_heart_rate_result.xml"
+    },
+    {
+        "merged": "E:\\PROJECT DONE\\HEALTH_TRACKER\\HEALTH_TRACKER\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_hrl.png.flat",
+        "source": "E:\\PROJECT DONE\\HEALTH_TRACKER\\HEALTH_TRACKER\\app\\src\\main\\res\\mipmap-xxhdpi\\hrl.png"
+    },
+    {
+        "merged": "E:\\PROJECT DONE\\HEALTH_TRACKER\\HEALTH_TRACKER\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "E:\\PROJECT DONE\\HEALTH_TRACKER\\HEALTH_TRACKER\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\PROJECT DONE\\HEALTH_TRACKER\\HEALTH_TRACKER\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "E:\\PROJECT DONE\\HEALTH_TRACKER\\HEALTH_TRACKER\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\PROJECT DONE\\HEALTH_TRACKER\\HEALTH_TRACKER\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_about_app.xml.flat",
+        "source": "E:\\PROJECT DONE\\HEALTH_TRACKER\\HEALTH_TRACKER\\app\\src\\main\\res\\layout\\activity_about_app.xml"
+    },
+    {
+        "merged": "E:\\PROJECT DONE\\HEALTH_TRACKER\\HEALTH_TRACKER\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bgggg.jpg.flat",
+        "source": "E:\\PROJECT DONE\\HEALTH_TRACKER\\HEALTH_TRACKER\\app\\src\\main\\res\\drawable\\bgggg.jpg"
+    },
+    {
+        "merged": "E:\\PROJECT DONE\\HEALTH_TRACKER\\HEALTH_TRACKER\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_bp1.png.flat",
+        "source": "E:\\PROJECT DONE\\HEALTH_TRACKER\\HEALTH_TRACKER\\app\\src\\main\\res\\mipmap-xxhdpi\\bp1.png"
+    },
+    {
+        "merged": "E:\\PROJECT DONE\\HEALTH_TRACKER\\HEALTH_TRACKER\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_first.xml.flat",
+        "source": "E:\\PROJECT DONE\\HEALTH_TRACKER\\HEALTH_TRACKER\\app\\src\\main\\res\\layout\\activity_first.xml"
+    },
+    {
+        "merged": "E:\\PROJECT DONE\\HEALTH_TRACKER\\HEALTH_TRACKER\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_hr1.png.flat",
+        "source": "E:\\PROJECT DONE\\HEALTH_TRACKER\\HEALTH_TRACKER\\app\\src\\main\\res\\mipmap-xxhdpi\\hr1.png"
+    },
+    {
+        "merged": "E:\\PROJECT DONE\\HEALTH_TRACKER\\HEALTH_TRACKER\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg3.jpg.flat",
+        "source": "E:\\PROJECT DONE\\HEALTH_TRACKER\\HEALTH_TRACKER\\app\\src\\main\\res\\drawable\\bg3.jpg"
+    },
+    {
+        "merged": "E:\\PROJECT DONE\\HEALTH_TRACKER\\HEALTH_TRACKER\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_bg4.jpg.flat",
+        "source": "E:\\PROJECT DONE\\HEALTH_TRACKER\\HEALTH_TRACKER\\app\\src\\main\\res\\mipmap-xxhdpi\\bg4.jpg"
+    },
+    {
+        "merged": "E:\\PROJECT DONE\\HEALTH_TRACKER\\HEALTH_TRACKER\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "E:\\PROJECT DONE\\HEALTH_TRACKER\\HEALTH_TRACKER\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\PROJECT DONE\\HEALTH_TRACKER\\HEALTH_TRACKER\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\PROJECT DONE\\HEALTH_TRACKER\\HEALTH_TRACKER\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\PROJECT DONE\\HEALTH_TRACKER\\HEALTH_TRACKER\\app\\build\\intermediates\\res\\merged\\debug\\drawable_circular_progressbar.xml.flat",
+        "source": "E:\\PROJECT DONE\\HEALTH_TRACKER\\HEALTH_TRACKER\\app\\src\\main\\res\\drawable\\circular_progressbar.xml"
+    },
+    {
+        "merged": "E:\\PROJECT DONE\\HEALTH_TRACKER\\HEALTH_TRACKER\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_rrr.png.flat",
+        "source": "E:\\PROJECT DONE\\HEALTH_TRACKER\\HEALTH_TRACKER\\app\\src\\main\\res\\mipmap-xxhdpi\\rrr.png"
+    },
+    {
+        "merged": "E:\\PROJECT DONE\\HEALTH_TRACKER\\HEALTH_TRACKER\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "E:\\PROJECT DONE\\HEALTH_TRACKER\\HEALTH_TRACKER\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\PROJECT DONE\\HEALTH_TRACKER\\HEALTH_TRACKER\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_heart_rate_process.xml.flat",
+        "source": "E:\\PROJECT DONE\\HEALTH_TRACKER\\HEALTH_TRACKER\\app\\src\\main\\res\\layout\\activity_heart_rate_process.xml"
+    },
+    {
+        "merged": "E:\\PROJECT DONE\\HEALTH_TRACKER\\HEALTH_TRACKER\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_bpr.png.flat",
+        "source": "E:\\PROJECT DONE\\HEALTH_TRACKER\\HEALTH_TRACKER\\app\\src\\main\\res\\mipmap-xxhdpi\\bpr.png"
+    },
+    {
+        "merged": "E:\\PROJECT DONE\\HEALTH_TRACKER\\HEALTH_TRACKER\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "E:\\PROJECT DONE\\HEALTH_TRACKER\\HEALTH_TRACKER\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\PROJECT DONE\\HEALTH_TRACKER\\HEALTH_TRACKER\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_blood_pressure_process.xml.flat",
+        "source": "E:\\PROJECT DONE\\HEALTH_TRACKER\\HEALTH_TRACKER\\app\\src\\main\\res\\layout\\activity_blood_pressure_process.xml"
+    },
+    {
+        "merged": "E:\\PROJECT DONE\\HEALTH_TRACKER\\HEALTH_TRACKER\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ab.png.flat",
+        "source": "E:\\PROJECT DONE\\HEALTH_TRACKER\\HEALTH_TRACKER\\app\\src\\main\\res\\mipmap-xxhdpi\\ab.png"
+    },
+    {
+        "merged": "E:\\PROJECT DONE\\HEALTH_TRACKER\\HEALTH_TRACKER\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_login.png.flat",
+        "source": "E:\\PROJECT DONE\\HEALTH_TRACKER\\HEALTH_TRACKER\\app\\src\\main\\res\\mipmap-xxhdpi\\login.png"
+    },
+    {
+        "merged": "E:\\PROJECT DONE\\HEALTH_TRACKER\\HEALTH_TRACKER\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\PROJECT DONE\\HEALTH_TRACKER\\HEALTH_TRACKER\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\PROJECT DONE\\HEALTH_TRACKER\\HEALTH_TRACKER\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_rr1.png.flat",
+        "source": "E:\\PROJECT DONE\\HEALTH_TRACKER\\HEALTH_TRACKER\\app\\src\\main\\res\\mipmap-xxhdpi\\rr1.png"
+    },
+    {
+        "merged": "E:\\PROJECT DONE\\HEALTH_TRACKER\\HEALTH_TRACKER\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_o2_result.xml.flat",
+        "source": "E:\\PROJECT DONE\\HEALTH_TRACKER\\HEALTH_TRACKER\\app\\src\\main\\res\\layout\\activity_o2_result.xml"
+    },
+    {
+        "merged": "E:\\PROJECT DONE\\HEALTH_TRACKER\\HEALTH_TRACKER\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_hrbar.png.flat",
+        "source": "E:\\PROJECT DONE\\HEALTH_TRACKER\\HEALTH_TRACKER\\app\\src\\main\\res\\mipmap-xxhdpi\\hrbar.png"
+    },
+    {
+        "merged": "E:\\PROJECT DONE\\HEALTH_TRACKER\\HEALTH_TRACKER\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\PROJECT DONE\\HEALTH_TRACKER\\HEALTH_TRACKER\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\PROJECT DONE\\HEALTH_TRACKER\\HEALTH_TRACKER\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_or1.png.flat",
+        "source": "E:\\PROJECT DONE\\HEALTH_TRACKER\\HEALTH_TRACKER\\app\\src\\main\\res\\mipmap-xxhdpi\\or1.png"
+    },
+    {
+        "merged": "E:\\PROJECT DONE\\HEALTH_TRACKER\\HEALTH_TRACKER\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_enter.png.flat",
+        "source": "E:\\PROJECT DONE\\HEALTH_TRACKER\\HEALTH_TRACKER\\app\\src\\main\\res\\mipmap-xxhdpi\\enter.png"
+    },
+    {
+        "merged": "E:\\PROJECT DONE\\HEALTH_TRACKER\\HEALTH_TRACKER\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\PROJECT DONE\\HEALTH_TRACKER\\HEALTH_TRACKER\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\PROJECT DONE\\HEALTH_TRACKER\\HEALTH_TRACKER\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_o2l.png.flat",
+        "source": "E:\\PROJECT DONE\\HEALTH_TRACKER\\HEALTH_TRACKER\\app\\src\\main\\res\\mipmap-xxhdpi\\o2l.png"
+    },
+    {
+        "merged": "E:\\PROJECT DONE\\HEALTH_TRACKER\\HEALTH_TRACKER\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "E:\\PROJECT DONE\\HEALTH_TRACKER\\HEALTH_TRACKER\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "E:\\PROJECT DONE\\HEALTH_TRACKER\\HEALTH_TRACKER\\app\\build\\intermediates\\res\\merged\\debug\\drawable_finger.jpg.flat",
+        "source": "E:\\PROJECT DONE\\HEALTH_TRACKER\\HEALTH_TRACKER\\app\\src\\main\\res\\drawable\\finger.jpg"
+    }
+]

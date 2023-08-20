@@ -1,0 +1,260 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:2:1-72:12
+INJECTED from C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:2:1-72:12
+INJECTED from C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:2:1-72:12
+INJECTED from C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:2:1-72:12
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\jadu2\.gradle\caches\transforms-3\bda1afd4d46a72af9a0783f0a8c183af\transformed\material-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\jadu2\.gradle\caches\transforms-3\119525dc8ea2d8f50703adbb5133ebad\transformed\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\jadu2\.gradle\caches\transforms-3\ed17b228528a4ae462a20d34a093e396\transformed\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\jadu2\.gradle\caches\transforms-3\72de3ad0e7ea8651a6e87e246ac967c6\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\jadu2\.gradle\caches\transforms-3\8b7f4841b0744a21f7ca71455108b61c\transformed\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\jadu2\.gradle\caches\transforms-3\4429f64555ed9d36388ad4b5b0c32434\transformed\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\jadu2\.gradle\caches\transforms-3\28987daf94618d12a626039a1bcb819f\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\jadu2\.gradle\caches\transforms-3\8a6303413022a75475e0d43fea7dc5ec\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\jadu2\.gradle\caches\transforms-3\44f59b81c87b69ad5a2c3b803c83780d\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\jadu2\.gradle\caches\transforms-3\22af41d6efc01e2b1f6684642bfbf4e6\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\jadu2\.gradle\caches\transforms-3\2ffd33c42ee9142780d270ad93a06b80\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\jadu2\.gradle\caches\transforms-3\e1b23a5846fa69c62ae6c2763eaeb253\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\jadu2\.gradle\caches\transforms-3\a9f454f90017dca7389400a6976be6d0\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\jadu2\.gradle\caches\transforms-3\93521ba5430a710ae5aacd1d479aaa8d\transformed\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\jadu2\.gradle\caches\transforms-3\d55f9b1c6cb2370e24af439e7aff662a\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\jadu2\.gradle\caches\transforms-3\167a7615f5c326be626c34db5c113190\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\jadu2\.gradle\caches\transforms-3\74f0d96b6387e8afac16a455da3402d9\transformed\core-1.1.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\jadu2\.gradle\caches\transforms-3\b62f021449e53cd8f85a380c2a59df94\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\jadu2\.gradle\caches\transforms-3\7c7a8c29ecce42e20d903e3a51f8df85\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\jadu2\.gradle\caches\transforms-3\7a9302cdc738d5878422b7f9a3256788\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\jadu2\.gradle\caches\transforms-3\b4e3184513846956a105ce73ffb96443\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\jadu2\.gradle\caches\transforms-3\bb55fbb59653e49ebc5c4e77d7473543\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\jadu2\.gradle\caches\transforms-3\eb53156be058313a9e646f5fe2f81b63\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\jadu2\.gradle\caches\transforms-3\f11a2796b54455e05ab8603854e4e469\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\jadu2\.gradle\caches\transforms-3\50d1210be62fa0ff51eb398d1f0c84bc\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\jadu2\.gradle\caches\transforms-3\be65a5e1808a5e2d45730c2d80164a89\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\jadu2\.gradle\caches\transforms-3\81f39f6b10eaffbd9990198b840796f5\transformed\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:2:1-72:12
+INJECTED from C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:2:1-72:12
+INJECTED from C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:2:1-72:12
+	package
+		ADDED from C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:3:5-47
+		INJECTED from C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:2:1-72:12
+		INJECTED from C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:2:1-72:12
+		INJECTED from C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:5:5-65
+	android:name
+		ADDED from C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:5:22-62
+uses-feature#android.hardware.camera
+ADDED from C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:7:5-60
+	android:name
+		ADDED from C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:7:19-57
+uses-feature#android.hardware.camera.flash
+ADDED from C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:8:5-66
+	android:name
+		ADDED from C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:8:19-63
+uses-permission#android.permission.FLASHLIGHT
+ADDED from C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:10:5-69
+	android:name
+		ADDED from C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:10:22-66
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:11:5-68
+	android:name
+		ADDED from C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:11:22-65
+application
+ADDED from C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:13:5-70:19
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\jadu2\.gradle\caches\transforms-3\bda1afd4d46a72af9a0783f0a8c183af\transformed\material-1.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\jadu2\.gradle\caches\transforms-3\bda1afd4d46a72af9a0783f0a8c183af\transformed\material-1.1.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\jadu2\.gradle\caches\transforms-3\ed17b228528a4ae462a20d34a093e396\transformed\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\jadu2\.gradle\caches\transforms-3\ed17b228528a4ae462a20d34a093e396\transformed\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.1.0] C:\Users\jadu2\.gradle\caches\transforms-3\74f0d96b6387e8afac16a455da3402d9\transformed\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\jadu2\.gradle\caches\transforms-3\74f0d96b6387e8afac16a455da3402d9\transformed\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\jadu2\.gradle\caches\transforms-3\7a9302cdc738d5878422b7f9a3256788\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\jadu2\.gradle\caches\transforms-3\7a9302cdc738d5878422b7f9a3256788\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\jadu2\.gradle\caches\transforms-3\74f0d96b6387e8afac16a455da3402d9\transformed\core-1.1.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:18:9-35
+	android:label
+		ADDED from C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:16:9-41
+	android:roundIcon
+		ADDED from C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:17:9-42
+	android:icon
+		ADDED from C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:15:9-37
+	android:allowBackup
+		ADDED from C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:14:9-35
+	android:theme
+		ADDED from C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:19:9-59
+activity#com.example.alpha.HEALTH_TRACKER.First
+ADDED from C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:20:9-29:20
+	android:screenOrientation
+		ADDED from C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:23:13-49
+	android:configChanges
+		ADDED from C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:22:13-48
+	android:name
+		ADDED from C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:21:13-66
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:27:27-74
+activity#com.example.alpha.HEALTH_TRACKER.Primary
+ADDED from C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:30:9-33:52
+	android:screenOrientation
+		ADDED from C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:33:13-49
+	android:configChanges
+		ADDED from C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:32:13-48
+	android:name
+		ADDED from C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:31:13-68
+activity#com.example.alpha.HEALTH_TRACKER.AboutApp
+ADDED from C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:34:9-37:52
+	android:screenOrientation
+		ADDED from C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:37:13-49
+	android:configChanges
+		ADDED from C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:36:13-48
+	android:name
+		ADDED from C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:35:13-69
+activity#com.example.alpha.HEALTH_TRACKER.O2Result
+ADDED from C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:38:9-41:52
+	android:screenOrientation
+		ADDED from C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:41:13-49
+	android:configChanges
+		ADDED from C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:40:13-48
+	android:name
+		ADDED from C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:39:13-69
+activity#com.example.alpha.HEALTH_TRACKER.BloodPressureResult
+ADDED from C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:42:9-45:52
+	android:screenOrientation
+		ADDED from C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:45:13-49
+	android:configChanges
+		ADDED from C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:44:13-48
+	android:name
+		ADDED from C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:43:13-80
+activity#com.example.alpha.HEALTH_TRACKER.HeartRateResult
+ADDED from C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:46:9-49:52
+	android:screenOrientation
+		ADDED from C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:49:13-49
+	android:configChanges
+		ADDED from C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:48:13-48
+	android:name
+		ADDED from C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:47:13-76
+activity#com.example.alpha.HEALTH_TRACKER.HeartRateProcess
+ADDED from C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:50:9-53:52
+	android:screenOrientation
+		ADDED from C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:53:13-49
+	android:configChanges
+		ADDED from C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:52:13-48
+	android:name
+		ADDED from C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:51:13-77
+activity#com.example.alpha.HEALTH_TRACKER.BloodPressureProcess
+ADDED from C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:54:9-57:52
+	android:screenOrientation
+		ADDED from C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:57:13-49
+	android:configChanges
+		ADDED from C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:56:13-48
+	android:name
+		ADDED from C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:55:13-81
+activity#com.example.alpha.HEALTH_TRACKER.O2Process
+ADDED from C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:58:9-61:52
+	android:screenOrientation
+		ADDED from C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:61:13-49
+	android:configChanges
+		ADDED from C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:60:13-48
+	android:name
+		ADDED from C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:59:13-70
+activity#com.example.alpha.HEALTH_TRACKER.Login
+ADDED from C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:62:9-65:52
+	android:screenOrientation
+		ADDED from C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:65:13-49
+	android:configChanges
+		ADDED from C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:64:13-48
+	android:name
+		ADDED from C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:63:13-66
+activity#com.example.alpha.HEALTH_TRACKER.StartVitalSigns
+ADDED from C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:66:9-69:52
+	android:screenOrientation
+		ADDED from C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:69:13-49
+	android:configChanges
+		ADDED from C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:68:13-48
+	android:name
+		ADDED from C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:67:13-76
+uses-sdk
+INJECTED from C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\jadu2\.gradle\caches\transforms-3\bda1afd4d46a72af9a0783f0a8c183af\transformed\material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\jadu2\.gradle\caches\transforms-3\bda1afd4d46a72af9a0783f0a8c183af\transformed\material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\jadu2\.gradle\caches\transforms-3\119525dc8ea2d8f50703adbb5133ebad\transformed\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\jadu2\.gradle\caches\transforms-3\119525dc8ea2d8f50703adbb5133ebad\transformed\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\jadu2\.gradle\caches\transforms-3\ed17b228528a4ae462a20d34a093e396\transformed\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\jadu2\.gradle\caches\transforms-3\ed17b228528a4ae462a20d34a093e396\transformed\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\jadu2\.gradle\caches\transforms-3\72de3ad0e7ea8651a6e87e246ac967c6\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\jadu2\.gradle\caches\transforms-3\72de3ad0e7ea8651a6e87e246ac967c6\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\jadu2\.gradle\caches\transforms-3\8b7f4841b0744a21f7ca71455108b61c\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\jadu2\.gradle\caches\transforms-3\8b7f4841b0744a21f7ca71455108b61c\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\jadu2\.gradle\caches\transforms-3\4429f64555ed9d36388ad4b5b0c32434\transformed\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\jadu2\.gradle\caches\transforms-3\4429f64555ed9d36388ad4b5b0c32434\transformed\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\jadu2\.gradle\caches\transforms-3\28987daf94618d12a626039a1bcb819f\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\jadu2\.gradle\caches\transforms-3\28987daf94618d12a626039a1bcb819f\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\jadu2\.gradle\caches\transforms-3\8a6303413022a75475e0d43fea7dc5ec\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\jadu2\.gradle\caches\transforms-3\8a6303413022a75475e0d43fea7dc5ec\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\jadu2\.gradle\caches\transforms-3\44f59b81c87b69ad5a2c3b803c83780d\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\jadu2\.gradle\caches\transforms-3\44f59b81c87b69ad5a2c3b803c83780d\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\jadu2\.gradle\caches\transforms-3\22af41d6efc01e2b1f6684642bfbf4e6\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\jadu2\.gradle\caches\transforms-3\22af41d6efc01e2b1f6684642bfbf4e6\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\jadu2\.gradle\caches\transforms-3\2ffd33c42ee9142780d270ad93a06b80\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\jadu2\.gradle\caches\transforms-3\2ffd33c42ee9142780d270ad93a06b80\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\jadu2\.gradle\caches\transforms-3\e1b23a5846fa69c62ae6c2763eaeb253\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\jadu2\.gradle\caches\transforms-3\e1b23a5846fa69c62ae6c2763eaeb253\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\jadu2\.gradle\caches\transforms-3\a9f454f90017dca7389400a6976be6d0\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\jadu2\.gradle\caches\transforms-3\a9f454f90017dca7389400a6976be6d0\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\jadu2\.gradle\caches\transforms-3\93521ba5430a710ae5aacd1d479aaa8d\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\jadu2\.gradle\caches\transforms-3\93521ba5430a710ae5aacd1d479aaa8d\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\jadu2\.gradle\caches\transforms-3\d55f9b1c6cb2370e24af439e7aff662a\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\jadu2\.gradle\caches\transforms-3\d55f9b1c6cb2370e24af439e7aff662a\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\jadu2\.gradle\caches\transforms-3\167a7615f5c326be626c34db5c113190\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\jadu2\.gradle\caches\transforms-3\167a7615f5c326be626c34db5c113190\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\jadu2\.gradle\caches\transforms-3\74f0d96b6387e8afac16a455da3402d9\transformed\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\jadu2\.gradle\caches\transforms-3\74f0d96b6387e8afac16a455da3402d9\transformed\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\jadu2\.gradle\caches\transforms-3\b62f021449e53cd8f85a380c2a59df94\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\jadu2\.gradle\caches\transforms-3\b62f021449e53cd8f85a380c2a59df94\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\jadu2\.gradle\caches\transforms-3\7c7a8c29ecce42e20d903e3a51f8df85\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\jadu2\.gradle\caches\transforms-3\7c7a8c29ecce42e20d903e3a51f8df85\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\jadu2\.gradle\caches\transforms-3\7a9302cdc738d5878422b7f9a3256788\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\jadu2\.gradle\caches\transforms-3\7a9302cdc738d5878422b7f9a3256788\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\jadu2\.gradle\caches\transforms-3\b4e3184513846956a105ce73ffb96443\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\jadu2\.gradle\caches\transforms-3\b4e3184513846956a105ce73ffb96443\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\jadu2\.gradle\caches\transforms-3\bb55fbb59653e49ebc5c4e77d7473543\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\jadu2\.gradle\caches\transforms-3\bb55fbb59653e49ebc5c4e77d7473543\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\jadu2\.gradle\caches\transforms-3\eb53156be058313a9e646f5fe2f81b63\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\jadu2\.gradle\caches\transforms-3\eb53156be058313a9e646f5fe2f81b63\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\jadu2\.gradle\caches\transforms-3\f11a2796b54455e05ab8603854e4e469\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\jadu2\.gradle\caches\transforms-3\f11a2796b54455e05ab8603854e4e469\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\jadu2\.gradle\caches\transforms-3\50d1210be62fa0ff51eb398d1f0c84bc\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\jadu2\.gradle\caches\transforms-3\50d1210be62fa0ff51eb398d1f0c84bc\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\jadu2\.gradle\caches\transforms-3\be65a5e1808a5e2d45730c2d80164a89\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\jadu2\.gradle\caches\transforms-3\be65a5e1808a5e2d45730c2d80164a89\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\jadu2\.gradle\caches\transforms-3\81f39f6b10eaffbd9990198b840796f5\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\jadu2\.gradle\caches\transforms-3\81f39f6b10eaffbd9990198b840796f5\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml

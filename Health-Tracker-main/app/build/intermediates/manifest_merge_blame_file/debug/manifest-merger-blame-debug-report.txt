@@ -1,0 +1,150 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.alpha.HEALTH_TRACKER"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="19"
+8-->C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.CAMERA" />
+11-->C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:5:5-65
+11-->C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:5:22-62
+12
+13    <uses-feature android:name="android.hardware.camera" />
+13-->C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:7:5-60
+13-->C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:7:19-57
+14    <uses-feature android:name="android.hardware.camera.flash" />
+14-->C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:8:5-66
+14-->C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:8:19-63
+15
+16    <uses-permission android:name="android.permission.FLASHLIGHT" />
+16-->C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:10:5-69
+16-->C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:10:22-66
+17    <uses-permission android:name="android.permission.WAKE_LOCK" />
+17-->C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:11:5-68
+17-->C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:11:22-65
+18
+19    <application
+19-->C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:13:5-70:19
+20        android:allowBackup="true"
+20-->C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:14:9-35
+21        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+21-->[androidx.core:core:1.1.0] C:\Users\jadu2\.gradle\caches\transforms-3\74f0d96b6387e8afac16a455da3402d9\transformed\core-1.1.0\AndroidManifest.xml:24:18-86
+22        android:debuggable="true"
+23        android:icon="@drawable/uem"
+23-->C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:15:9-37
+24        android:label="@string/app_name"
+24-->C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:16:9-41
+25        android:roundIcon="@drawable/uem"
+25-->C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:17:9-42
+26        android:supportsRtl="true"
+26-->C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:18:9-35
+27        android:testOnly="true"
+28        android:theme="@style/Theme.AppCompat.NoActionBar" >
+28-->C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:19:9-59
+29        <activity
+29-->C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:20:9-29:20
+30            android:name="com.example.alpha.HEALTH_TRACKER.First"
+30-->C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:21:13-66
+31            android:configChanges="orientation"
+31-->C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:22:13-48
+32            android:screenOrientation="portrait" >
+32-->C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:23:13-49
+33            <intent-filter>
+33-->C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:24:13-28:29
+34                <action android:name="android.intent.action.MAIN" />
+34-->C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:25:17-69
+34-->C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:25:25-66
+35
+36                <category android:name="android.intent.category.LAUNCHER" />
+36-->C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:27:17-77
+36-->C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:27:27-74
+37            </intent-filter>
+38        </activity>
+39        <activity
+39-->C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:30:9-33:52
+40            android:name="com.example.alpha.HEALTH_TRACKER.Primary"
+40-->C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:31:13-68
+41            android:configChanges="orientation"
+41-->C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:32:13-48
+42            android:screenOrientation="portrait" />
+42-->C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:33:13-49
+43        <activity
+43-->C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:34:9-37:52
+44            android:name="com.example.alpha.HEALTH_TRACKER.AboutApp"
+44-->C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:35:13-69
+45            android:configChanges="orientation"
+45-->C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:36:13-48
+46            android:screenOrientation="portrait" />
+46-->C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:37:13-49
+47        <activity
+47-->C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:38:9-41:52
+48            android:name="com.example.alpha.HEALTH_TRACKER.O2Result"
+48-->C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:39:13-69
+49            android:configChanges="orientation"
+49-->C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:40:13-48
+50            android:screenOrientation="portrait" />
+50-->C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:41:13-49
+51        <activity
+51-->C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:42:9-45:52
+52            android:name="com.example.alpha.HEALTH_TRACKER.BloodPressureResult"
+52-->C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:43:13-80
+53            android:configChanges="orientation"
+53-->C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:44:13-48
+54            android:screenOrientation="portrait" />
+54-->C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:45:13-49
+55        <activity
+55-->C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:46:9-49:52
+56            android:name="com.example.alpha.HEALTH_TRACKER.HeartRateResult"
+56-->C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:47:13-76
+57            android:configChanges="orientation"
+57-->C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:48:13-48
+58            android:screenOrientation="portrait" />
+58-->C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:49:13-49
+59        <activity
+59-->C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:50:9-53:52
+60            android:name="com.example.alpha.HEALTH_TRACKER.HeartRateProcess"
+60-->C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:51:13-77
+61            android:configChanges="orientation"
+61-->C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:52:13-48
+62            android:screenOrientation="portrait" />
+62-->C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:53:13-49
+63        <activity
+63-->C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:54:9-57:52
+64            android:name="com.example.alpha.HEALTH_TRACKER.BloodPressureProcess"
+64-->C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:55:13-81
+65            android:configChanges="orientation"
+65-->C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:56:13-48
+66            android:screenOrientation="portrait" />
+66-->C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:57:13-49
+67        <activity
+67-->C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:58:9-61:52
+68            android:name="com.example.alpha.HEALTH_TRACKER.O2Process"
+68-->C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:59:13-70
+69            android:configChanges="orientation"
+69-->C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:60:13-48
+70            android:screenOrientation="portrait" />
+70-->C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:61:13-49
+71        <activity
+71-->C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:62:9-65:52
+72            android:name="com.example.alpha.HEALTH_TRACKER.Login"
+72-->C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:63:13-66
+73            android:configChanges="orientation"
+73-->C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:64:13-48
+74            android:screenOrientation="portrait" />
+74-->C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:65:13-49
+75        <activity
+75-->C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:66:9-69:52
+76            android:name="com.example.alpha.HEALTH_TRACKER.StartVitalSigns"
+76-->C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:67:13-76
+77            android:configChanges="orientation"
+77-->C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:68:13-48
+78            android:screenOrientation="portrait" />
+78-->C:\Users\jadu2\OneDrive\Desktop\HEALTH_TRACKER\app\src\main\AndroidManifest.xml:69:13-49
+79    </application>
+80
+81</manifest>
